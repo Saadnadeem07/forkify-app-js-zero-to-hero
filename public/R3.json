@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "data": {
+    "recipe": {
+      "publisher": "Vintage Mixer",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "",
+          "description": "small head of cauliflower leaves and stems removed"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "description": "basil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "description": "oregano"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "description": "parsley"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "description": "salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "description": "manchengo sheep milk cheese"
+        },
+        {
+          "quantity": 2,
+          "unit": "",
+          "description": "eggs"
+        },
+        {
+          "quantity": null,
+          "unit": "",
+          "description": "Cornmeal to dust the pizza stone"
+        },
+        {
+          "quantity": 1,
+          "unit": "",
+          "description": "jar marinara or pizza sauce"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "description": "sheep milk cheese"
+        },
+        {
+          "quantity": 5,
+          "unit": "",
+          "description": "basil leaves"
+        }
+      ],
+      "source_url": "http://www.thevintagemixer.com/2013/03/cauliflower-pizza-crust-recipe/",
+      "image_url": "http://forkify-api.herokuapp.com/images/CauliflowerPizzaCrustRecipe06fdc.jpg",
+      "title": "Cauliflower Pizza Crust Recipe",
+      "servings": 4,
+      "cooking_time": 75,
+      "id": "664c8f193e7aa067e94e8906"
+    }
+  }
+}

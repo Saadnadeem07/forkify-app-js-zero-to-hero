@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "data": {
+    "recipe": {
+      "publisher": "BBC Good Food",
+      "ingredients": [
+        {
+          "quantity": 6,
+          "unit": "",
+          "description": "baby artichokes"
+        },
+        {
+          "quantity": 400,
+          "unit": "ml",
+          "description": "olive oil"
+        },
+        {
+          "quantity": 200,
+          "unit": "ml",
+          "description": "white wine"
+        },
+        {
+          "quantity": 7,
+          "unit": "",
+          "description": "black peppercorns"
+        },
+        {
+          "quantity": null,
+          "unit": "",
+          "description": "A few sprigs thyme"
+        },
+        {
+          "quantity": 1,
+          "unit": "",
+          "description": "garlic clove"
+        },
+        {
+          "quantity": null,
+          "unit": "",
+          "description": "Lemon juiced"
+        },
+        {
+          "quantity": 300,
+          "unit": "g",
+          "description": "stracchino or taleggio cheese sliced"
+        },
+        {
+          "quantity": 10,
+          "unit": "g",
+          "description": "fresh yeast or 1x 7g pack dried yeast"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "description": "sugar"
+        },
+        {
+          "quantity": 375,
+          "unit": "g",
+          "description": "00 flour"
+        },
+        {
+          "quantity": null,
+          "unit": "",
+          "description": "Olive oil"
+        }
+      ],
+      "source_url": "http://www.bbcgoodfood.com/recipes/2150654/pizza-bianco-with-artichoke-hearts",
+      "image_url": "http://forkify-api.herokuapp.com/images/2150654_MEDIUM6068.jpg",
+      "title": "Pizza bianco with artichoke hearts",
+      "servings": 4,
+      "cooking_time": 75,
+      "id": "664c8f193e7aa067e94e897b"
+    }
+  }
+}

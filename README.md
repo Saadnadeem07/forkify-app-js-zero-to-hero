@@ -1,9 +1,9 @@
 # 🍴 Forkify -- JavaScript Zero-to-Hero Project
 
 A **recipe search and management web application** built while
-following\
+following
 [Jonas Schmedtmann's "The Complete JavaScript
-Course"](https://www.udemy.com/course/the-complete-javascript-course/).\
+Course"](https://www.udemy.com/course/the-complete-javascript-course/).
 This is my own implementation to practice **modern JavaScript
 (ES6+)**, MVC architecture, and production-ready build tools.
 
@@ -51,15 +51,15 @@ This is my own implementation to practice **modern JavaScript
 ## ✨ Features
 
 -   **Recipe Search** -- Query thousands of recipes via the [Forkify
-    API](https://forkify-api.herokuapp.com/).\
+    API](https://forkify-api.herokuapp.com/).
 -   **Detailed Recipe View** -- Ingredients, cooking time, and serving
-    size.\
+    size.
 -   **Adjust Servings** -- Automatically recalculate ingredient
-    quantities.\
--   **Bookmarks** -- Save favorite recipes in local storage.\
+    quantities.
+-   **Bookmarks** -- Save favorite recipes in local storage.
 -   **Add Your Own Recipes** -- Upload custom recipes that persist
-    locally.\
--   **Responsive UI** -- Built with Sass and modular JavaScript.\
+    locally.
+-   **Responsive UI** -- Built with Sass and modular JavaScript.
 -   **MVC Architecture** -- Clean separation of model, view, and
     controller.
 
@@ -110,8 +110,8 @@ You can deploy this project on any static hosting platform such as
 ## 🙏 Acknowledgments
 
 -   Original concept and design by **[Jonas
-    Schmedtmann](https://codingheroes.io/)**\
--   HTML/CSS/Sass starter files provided as part of the course.\
+    Schmedtmann](https://codingheroes.io/)**
+-   HTML/CSS/Sass starter files provided as part of the course.
 -   **All JavaScript code written by me** to implement the full
     functionality.
 
@@ -119,7 +119,7 @@ You can deploy this project on any static hosting platform such as
 
 ## 📜 License
 
-This project is for **educational purposes only**.\
+This project is for **educational purposes only**.
 Feel free to fork and modify, but please credit the original author.
 
 ------------------------------------------------------------------------

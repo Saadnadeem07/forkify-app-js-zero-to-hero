@@ -4,7 +4,7 @@ A **recipe search and management web application** built while
 following\
 [Jonas Schmedtmann's "The Complete JavaScript
 Course"](https://www.udemy.com/course/the-complete-javascript-course/).\
-This fork is my own implementation to practice **modern JavaScript
+This is my own implementation to practice **modern JavaScript
 (ES6+)**, MVC architecture, and production-ready build tools.
 
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ npm install
 npm start
 ```
 
-The app will be available at **http://localhost:1234**.
+The app will be available at **[https://saad-forkify-app-js.netlify.app/](https://saad-forkify-app-js.netlify.app/)**.
 
 ------------------------------------------------------------------------
 
